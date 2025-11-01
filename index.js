@@ -18,9 +18,9 @@
 // a = true
 // console.log(a)
 //any type
-var a = 10;
-console.log(a);
-a = "Pooja";
-console.log(a);
-a = true;
-console.log(a);
+// var a:any = 10
+// console.log(a)
+// a = "Pooja"
+// console.log(a)
+// a = true
+// console.log(a)
