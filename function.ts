@@ -16,9 +16,9 @@
 
 
 //return type
-function test(): number {
-   return 10
-   return true
-   return "10"
-}
-console.log(test())
+// function test(): number {
+//    return 10
+//    return true
+//    return "10"
+// }
+// console.log(test())
