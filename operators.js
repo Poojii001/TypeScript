@@ -26,6 +26,6 @@
 // console.log(false && 20)   //f
 // console.log(true && 20)   //t ie 20
 //bitwise OPR
-console.log(10 & 20);
-console.log(10 & 5);
-console.log(10 & "Hello world"); //error
+// console.log(10 & 20)
+// console.log(10 & 5)   
+// console.log(10 & "Hello world")  //error
