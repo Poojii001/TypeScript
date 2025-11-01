@@ -16,8 +16,12 @@
 // console.log("15"/"6")   //error
 // console.log(15/ "Hello world")   //error
 //relation
-console.log(10 < 20); //t
-console.log(10 > 20); //f
-console.log(10 < "20"); //error
-console.log("10" < 20); //eror
-console.log("10" < "20"); //f
+// console.log(10 < 20)   //t
+// console.log(10 > 20)   //f
+// console.log(10 < "20")   //error
+// console.log("10" < 20)    //eror
+// console.log("10" < "20")   //f
+//Logical OPr
+console.log(10 && 20); //error
+console.log(false && 20); //f
+console.log(true && 20); //t ie 20
