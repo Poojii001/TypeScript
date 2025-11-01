@@ -7,9 +7,18 @@
 
 
 
-function test(a: any, b: any) {
-    console.log(`a = ${a} and b= ${b}`)
+// function test(a: any, b: any) {
+//     console.log(`a = ${a} and b= ${b}`)
+// }
+// test(10, 20)
+// test("Pooja", "Pal")
+// test(true, false)
+
+
+//return type
+function test(): number {
+   return 10
+   return true
+   return "10"
 }
-test(10, 20)
-test("Pooja", "Pal")
-test(true, false)
+console.log(test())
