@@ -1,6 +1,8 @@
 var a = [10,20,30,40,50,"Pooja","Raj","Akhil","Hema",true,false,[1,2,3,4,5]]
-var a:number[] = [10,20,30,40,50,"Pooja","Raj","Akhil","Hema",true,false,[1,2,3,4,5]]
-var a:string[] = [10,20,30,40,50,"Pooja","Raj","Akhil","Hema",true,false,[1,2,3,4,5]]
-var a:(number | string)[] = [10,20,30,40,50,"Pooja","Raj","Akhil","Hema",true,false,[1,2,3,4,5]]
-var a:(number | string | boolean )[] = [10,20,30,40,50,"Pooja","Raj","Akhil","Hema",true,false,[1,2,3,4,5]]
-var a:(number | string | boolean | number)[] = [10,20,30,40,50,"Pooja","Raj","Akhil","Hema",true,false,[1,2,3,4,5]]
+// var a:number[] = [10,20,30,40,50,"Pooja","Raj","Akhil","Hema",true,false,[1,2,3,4,5]]
+// var a:string[] = [10,20,30,40,50,"Pooja","Raj","Akhil","Hema",true,false,[1,2,3,4,5]]
+// var a:(number | string)[] = [10,20,30,40,50,"Pooja","Raj","Akhil","Hema",true,false,[1,2,3,4,5]]
+// var a:(number | string | boolean )[] = [10,20,30,40,50,"Pooja","Raj","Akhil","Hema",true,false,[1,2,3,4,5]]
+// var a:(number | string | boolean | number)[] = [10,20,30,40,50,"Pooja","Raj","Akhil","Hema",true,false,[1,2,3,4,5]]
+
+
